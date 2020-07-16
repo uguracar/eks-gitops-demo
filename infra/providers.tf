@@ -18,7 +18,7 @@ terraform {
     hostname     = "app.terraform.io"
     organization = "maxspotter"
     workspaces {
-      name = "eks-demo"
+      name = "eks-gitops-demo"
     }
   }
 }
